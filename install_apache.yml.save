@@ -1,6 +1,6 @@
 ---
 
-- hosts: none
+- hosts: 
   become: true
   tasks:
   
